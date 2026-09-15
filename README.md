@@ -26,6 +26,7 @@ I build web apps, Java APIs, and games that occasionally get out of hand.
 - 🍔 [Ghost × Koë](https://www.giampi.me/?view=index#project=restaurant-menu-pos): two brands, responsive menus, and demo carts. Frontend prototypes.
 - ⛓️ [Polybay](https://github.com/ucf-nft-marketplace/polybay): NFT contract contributor on my UCF team capstone.
 
-Currently tinkering with [Truco venezolano](https://truco-ve.vercel.app/) 🃏 Still a work in progress. My recent prototypes are AI-assisted; the portfolio has the details.
+Currently tinkering with [Truco venezolano](https://truco-ve.vercel.app/) 🃏 Still a work in progress. My recent prototypes are AI-assisted; my portfolio has the details, feel free to check it out below.👇
+
 
 `// giampiga` 🐾 usually accompanied by my two Pomskies
