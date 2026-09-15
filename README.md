@@ -29,4 +29,4 @@ I build web apps, Java APIs, and games that occasionally get out of hand.
 Currently tinkering with [Truco venezolano](https://truco-ve.vercel.app/) 🃏 Still a work in progress. My recent prototypes are AI-assisted; my portfolio has the details, feel free to check it out below.👇
 
 
-`// giampiga` 🐾 usually accompanied by my two Pomskies
+[`// giampiga` 🐾](https://giampi.me) usually accompanied by my two Pomskies
